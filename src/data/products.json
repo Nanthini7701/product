@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "Classic Leather Bag",
+    "price": 79.99,
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=800&q=60",
+    "category": "Accessories"
+  },
+  {
+    "id": 2,
+    "title": "Running Sneakers",
+    "price": 59.99,
+    "image": "https://images.unsplash.com/photo-1528701800489-47615b3c1d67?auto=format&fit=crop&w=800&q=60",
+    "category": "Shoes"
+  },
+  {
+    "id": 3,
+    "title": "Minimal Watch",
+    "price": 129.99,
+    "image": "https://images.unsplash.com/photo-1519741497064-2a1f5319a5b1?auto=format&fit=crop&w=800&q=60",
+    "category": "Accessories"
+  },
+  {
+    "id": 4,
+    "title": "Casual Hoodie",
+    "price": 39.99,
+    "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=800&q=60",
+    "category": "Clothing"
+  },
+  {
+    "id": 5,
+    "title": "Denim Jacket",
+    "price": 89.99,
+    "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=800&q=60",
+    "category": "Clothing"
+  },
+  {
+    "id": 6,
+    "title": "Trail Backpack",
+    "price": 49.99,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=60",
+    "category": "Outdoor"
+  },
+  {
+    "id": 7,
+    "title": "Sunglasses",
+    "price": 19.99,
+    "image": "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb?auto=format&fit=crop&w=800&q=60",
+    "category": "Accessories"
+  },
+  {
+    "id": 8,
+    "title": "Hiking Boots",
+    "price": 99.99,
+    "image": "https://images.unsplash.com/photo-1519744792095-2f2205e87b6f?auto=format&fit=crop&w=800&q=60",
+    "category": "Shoes"
+  }
+]
